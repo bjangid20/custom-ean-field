@@ -1,0 +1,17 @@
+{
+  "name": "custom-ean-field",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.2.0",
+    "@material-ui/icons": "^4.2.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "author": "bharat",
+  "license": "ISC"
+}
