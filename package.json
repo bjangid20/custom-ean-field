@@ -1,17 +1,29 @@
 {
-  "name": "custom-ean-field",
+  "name": "custom-barcode-scanner",
   "version": "1.0.0",
-  "description": "",
+  "description": "This widget provides ean toggle option to do scan from barcode or user can type and validate if it correct or not?",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "@material-ui/core": "^4.2.0",
     "@material-ui/icons": "^4.2.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjangid20/custom-ean-field.git"
+  },
   "author": "bharat",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/bjangid20/custom-ean-field/issues"
+  },
+  "homepage": "https://github.com/bjangid20/custom-ean-field#readme"
 }
